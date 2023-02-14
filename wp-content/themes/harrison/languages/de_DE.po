@@ -1,0 +1,626 @@
+# Translation of Themes - Donovan in German
+# This file is distributed under the same license as the Themes - Donovan package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Harrison\n"
+"Report-Msgid-Bugs-To: https://themezee.com/\n"
+"POT-Creation-Date: 2020-03-04 15:22+0100\n"
+"PO-Revision-Date: 2020-03-04 15:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: ThemeZee\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.3\n"
+
+#: 404.php:19
+msgid "404: Page not found"
+msgstr "404: Seite nicht gefunden"
+
+#: 404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try a search or one "
+"of the links below?"
+msgstr ""
+"Unter dieser Adresse wurde nichts gefunden. Möglicherweise hilft eine Suche "
+"oder einer der Links unterhalb?"
+
+#: comments.php:35
+msgid "One comment"
+msgstr "Ein Kommentar"
+
+#: comments.php:38
+#, php-format
+msgid "%s comments"
+msgstr "%s Kommentare"
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: functions.php:49
+msgid "Main Navigation"
+msgstr "Hauptnavigation"
+
+#: functions.php:120
+msgid "Expand child menu"
+msgstr "Untermenü öffnen"
+
+#: functions.php:121
+msgid "Collapse child menu"
+msgstr "Untermenü schließen"
+
+#: functions.php:156
+msgid "Footer Copyright"
+msgstr "Footer Copyright"
+
+#: functions.php:158
+msgctxt "widget area description"
+msgid "Appears in the bottom footer line."
+msgstr "Erscheint in der unteren Zeile im Footer."
+
+#: functions.php:173
+msgid "Harrison Single Post"
+msgstr "Harrison Single Post"
+
+#: functions.php:174
+msgid "Harrison List Post"
+msgstr "Harrison List Post"
+
+#: header.php:28
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#: inc/back-compat.php:42 inc/back-compat.php:52 inc/back-compat.php:65
+#, php-format
+msgid ""
+"%1$s requires at least WordPress version %2$s. You are running version %3$s. "
+"Please upgrade and try again."
+msgstr ""
+"%1$s benötigt mindestens WordPress Version %2$s. Du verwendest Version %3$s. "
+"Bitte aktualisiere und versuche es erneut."
+
+#: inc/customizer/controls/links-control.php:25 inc/theme-info.php:46
+msgid "Theme Links"
+msgstr "Theme Links"
+
+#: inc/customizer/controls/links-control.php:28 inc/theme-info.php:47
+msgid "https://themezee.com/themes/harrison/"
+msgstr "https://themezee.com/de/themes/harrison/"
+
+#: inc/customizer/controls/links-control.php:29 inc/theme-info.php:47
+msgid "Theme Page"
+msgstr "Theme Seite"
+
+#: inc/customizer/controls/links-control.php:35 inc/theme-info.php:48
+msgid "Theme Demo"
+msgstr "Theme Demo"
+
+#: inc/customizer/controls/links-control.php:40 inc/theme-info.php:49
+#: inc/theme-info.php:71
+msgid "https://themezee.com/docs/harrison-documentation/"
+msgstr "https://themezee.com/de/docs/harrison-dokumentation/"
+
+#: inc/customizer/controls/links-control.php:41 inc/theme-info.php:49
+#: inc/theme-info.php:65
+msgid "Theme Documentation"
+msgstr "Theme Dokumentation"
+
+#: inc/customizer/controls/links-control.php:46
+msgid ""
+"https://themezee.com/changelogs/?action=themezee-"
+"changelog&type=theme&slug=harrison/"
+msgstr ""
+"https://themezee.com/changelogs/?action=themezee-"
+"changelog&type=theme&slug=harrison/"
+
+#: inc/customizer/controls/links-control.php:47 inc/theme-info.php:50
+msgid "Theme Changelog"
+msgstr "Theme Changelog"
+
+#: inc/customizer/controls/links-control.php:52 inc/theme-info.php:51
+#: inc/theme-info.php:155
+msgid "https://wordpress.org/support/theme/harrison/reviews/"
+msgstr "https://wordpress.org/support/theme/harrison/reviews/"
+
+#: inc/customizer/controls/links-control.php:53 inc/theme-info.php:51
+#: inc/theme-info.php:155
+msgid "Rate this theme"
+msgstr "Theme bewerten"
+
+#: inc/customizer/controls/plugin-control.php:33
+msgid "Install Plugin"
+msgstr "Plugin installieren"
+
+#: inc/customizer/controls/upgrade-control.php:25 inc/theme-info.php:111
+msgid "Pro Version Add-on"
+msgstr "Pro Version Add-on"
+
+#: inc/customizer/controls/upgrade-control.php:28 inc/theme-info.php:114
+#, php-format
+msgid ""
+"Purchase the %s Pro Add-on to get additional features and advanced "
+"customization options."
+msgstr ""
+"Kaufe das %s Pro Add-on und erhalte zusätzliche Features und erweiterte "
+"Theme Optionen."
+
+#: inc/customizer/controls/upgrade-control.php:32 inc/theme-info.php:117
+msgid "https://themezee.com/addons/harrison-pro/"
+msgstr "https://themezee.com/de/addons/harrison-pro/"
+
+#: inc/customizer/controls/upgrade-control.php:33 inc/theme-info.php:118
+#, php-format
+msgid "Learn more about %s Pro"
+msgstr "Erfahre mehr über %s Pro"
+
+#: inc/customizer/customizer.php:37 inc/theme-info.php:78
+msgid "Theme Options"
+msgstr "Theme Optionen"
+
+#: inc/customizer/customizer.php:42
+msgid "Background"
+msgstr "Hintergrund"
+
+#: inc/customizer/default-options.php:61
+msgid "Continue reading"
+msgstr "Weiterlesen"
+
+#: inc/customizer/sections/blog-settings.php:19
+msgid "Blog Settings"
+msgstr "Blog-Einstellungen"
+
+#: inc/customizer/sections/blog-settings.php:36
+msgid "Blog Layout"
+msgstr "Blog-Layout"
+
+#: inc/customizer/sections/blog-settings.php:42
+msgid "Horizontal List"
+msgstr "Horizontale Liste"
+
+#: inc/customizer/sections/blog-settings.php:43
+msgid "Horizontal List (alternative)"
+msgstr "Horizontale Liste (alternativ)"
+
+#: inc/customizer/sections/blog-settings.php:44
+msgid "Vertical List"
+msgstr "Vertikale Liste"
+
+#: inc/customizer/sections/blog-settings.php:45
+msgid "Vertical List (alternative)"
+msgstr "Vertikale Liste (alternativ)"
+
+#: inc/customizer/sections/blog-settings.php:46
+msgid "Two Column Grid"
+msgstr "Zweispaltiges Grid-Layout"
+
+#: inc/customizer/sections/blog-settings.php:47
+msgid "Three Column Grid"
+msgstr "Dreispaltiges Grid-Layout"
+
+#: inc/customizer/sections/blog-settings.php:60
+msgid "Blog Content"
+msgstr "Blog-Content"
+
+#: inc/customizer/sections/blog-settings.php:66
+msgid "Full post"
+msgstr "Voller Beitrag"
+
+#: inc/customizer/sections/blog-settings.php:67
+msgid "Post excerpt"
+msgstr "Beitragsauszug"
+
+#: inc/customizer/sections/blog-settings.php:80
+msgid "Excerpt Length"
+msgstr "Länge des Beitragsauszugs"
+
+#: inc/customizer/sections/blog-settings.php:96
+msgid "Excerpt More Text"
+msgstr "Beitragsauszug-Text"
+
+#: inc/customizer/sections/blog-settings.php:126
+msgid "Read More Link"
+msgstr "Weiterlesen-Link"
+
+#: inc/customizer/sections/blog-settings.php:142
+msgid "Number of Posts"
+msgstr "Anzahl der Beiträge"
+
+#: inc/customizer/sections/footer-settings.php:19
+msgid "Footer Settings"
+msgstr "Footer Einstellungen"
+
+#: inc/customizer/sections/footer-settings.php:36
+msgid "Footer Text"
+msgstr "Footer Text"
+
+#: inc/customizer/sections/footer-settings.php:59
+msgid "Display credit link on footer line"
+msgstr "Link zu ThemeZee im Footer anzeigen"
+
+#: inc/customizer/sections/layout-settings.php:19
+msgid "Layout Settings"
+msgstr "Layout-Einstellungen"
+
+#: inc/customizer/sections/layout-settings.php:36
+msgid "Theme Layout"
+msgstr "Theme Layout"
+
+#: inc/customizer/sections/layout-settings.php:42
+msgid "Centered Layout"
+msgstr "Zentriertes Layout"
+
+#: inc/customizer/sections/layout-settings.php:43
+msgid "Wide Layout"
+msgstr "Breites Layout"
+
+#: inc/customizer/sections/layout-settings.php:56
+msgid "Header Layout"
+msgstr "Header Layout"
+
+#: inc/customizer/sections/layout-settings.php:62
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: inc/customizer/sections/layout-settings.php:63
+msgid "Vertical"
+msgstr "Vertikal"
+
+#: inc/customizer/sections/post-settings.php:19
+msgid "Post Settings"
+msgstr "Beitrags-Einstellungen"
+
+#: inc/customizer/sections/post-settings.php:30
+msgid "Post Details"
+msgstr "Beitrag-Details"
+
+#: inc/customizer/sections/post-settings.php:46
+msgid "Display date"
+msgstr "Datum anzeigen"
+
+#: inc/customizer/sections/post-settings.php:62
+msgid "Display author"
+msgstr "Autor anzeigen"
+
+#: inc/customizer/sections/post-settings.php:78
+msgid "Display comments"
+msgstr "Kommentare anzeigen"
+
+#: inc/customizer/sections/post-settings.php:94
+msgid "Display categories"
+msgstr "Kategorien anzeigen"
+
+#: inc/customizer/sections/post-settings.php:104
+msgid "Single Post"
+msgstr "Einzelner Beitrag"
+
+#: inc/customizer/sections/post-settings.php:120
+msgid "Display tags"
+msgstr "Schlagwörter anzeigen"
+
+#: inc/customizer/sections/post-settings.php:136
+msgid "Display previous/next post navigation"
+msgstr "Navigation für vorherigen/nächsten Beitrag anzeigen"
+
+#: inc/customizer/sections/post-settings.php:146
+msgid "Featured Images"
+msgstr "Beitragsbilder"
+
+#: inc/customizer/sections/post-settings.php:162
+msgid "Display images on blog and archives"
+msgstr "Beitragsbilder im Blog und Archiven anzeigen"
+
+#: inc/customizer/sections/post-settings.php:184
+msgid "Featured Images on Single Posts"
+msgstr "Beitragsbilder in einzelnen Beiträgen"
+
+#: inc/customizer/sections/post-settings.php:190
+msgid "Display image in the header"
+msgstr "Beitragsbild im Header anzeigen"
+
+#: inc/customizer/sections/post-settings.php:191
+msgid "Display image above post title"
+msgstr "Beitragsbild über dem Titel anzeigen"
+
+#: inc/customizer/sections/post-settings.php:192
+msgid "Display image below post title"
+msgstr "Beitragsbild unter dem Titel anzeigen"
+
+#: inc/customizer/sections/post-settings.php:193
+msgid "Hide featured image"
+msgstr "Beitragsbild ausblenden"
+
+#: inc/customizer/sections/theme-info-settings.php:19 inc/theme-info.php:20
+msgid "Theme Info"
+msgstr "Theme Info"
+
+#: inc/customizer/sections/theme-info-settings.php:48
+msgid "Magazine Blocks"
+msgstr "Magazin Blocks"
+
+#: inc/customizer/sections/theme-info-settings.php:49
+msgid ""
+"Install our free Magazine Blocks to create a magazine-styled homepage in the "
+"Editor with just a few clicks."
+msgstr ""
+"Installiere unsere kostenlosen Magazin Blocks, um mit nur wenigen Klicks "
+"eine Magazin-Homepage im Editor zu erstellen."
+
+#: inc/customizer/sections/website-settings.php:34
+msgid "Retina Logo"
+msgstr "Retina Logo"
+
+#: inc/customizer/sections/website-settings.php:50
+msgid "Scale down logo image for retina displays"
+msgstr "Logo-Bild für Retina-Displays verkleinern"
+
+#: inc/customizer/sections/website-settings.php:66
+msgid "Display Site Title"
+msgstr "Titel der Website anzeigen"
+
+#: inc/customizer/sections/website-settings.php:82
+msgid "Display Tagline"
+msgstr "Untertitel anzeigen"
+
+#: inc/gutenberg.php:33
+msgctxt "block color"
+msgid "Primary"
+msgstr "Primär"
+
+#: inc/gutenberg.php:38
+msgctxt "block color"
+msgid "Secondary"
+msgstr "Sekundär"
+
+#: inc/gutenberg.php:43
+msgctxt "block color"
+msgid "Accent"
+msgstr "Akzent"
+
+#: inc/gutenberg.php:48
+msgctxt "block color"
+msgid "Highlight"
+msgstr "Highlight"
+
+#: inc/gutenberg.php:53
+msgctxt "block color"
+msgid "White"
+msgstr "Weiß"
+
+#: inc/gutenberg.php:58
+msgctxt "block color"
+msgid "Light Gray"
+msgstr "Hellgrau"
+
+#: inc/gutenberg.php:63
+msgctxt "block color"
+msgid "Gray"
+msgstr "Grau"
+
+#: inc/gutenberg.php:68
+msgctxt "block color"
+msgid "Dark Gray"
+msgstr "Dunkelgrau"
+
+#: inc/gutenberg.php:73
+msgctxt "block color"
+msgid "Black"
+msgstr "Schwarz"
+
+#: inc/gutenberg.php:82
+msgctxt "block font size"
+msgid "Small"
+msgstr "Klein"
+
+#: inc/gutenberg.php:87
+msgctxt "block font size"
+msgid "Medium"
+msgstr "Mittel"
+
+#: inc/gutenberg.php:92
+msgctxt "block font size"
+msgid "Large"
+msgstr "Groß"
+
+#: inc/gutenberg.php:97
+msgctxt "block font size"
+msgid "Extra Large"
+msgstr "Sehr groß"
+
+#: inc/gutenberg.php:102
+msgctxt "block font size"
+msgid "Huge"
+msgstr "Riesig"
+
+#: inc/template-tags.php:135
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: inc/template-tags.php:237
+#, php-format
+msgid "View all posts by %s"
+msgstr "Alle Beiträge von %s ansehen"
+
+#: inc/template-tags.php:243
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "von %s"
+
+#: inc/template-tags.php:286
+msgid "No comments"
+msgstr "Keine Kommentare"
+
+#: inc/template-tags.php:287
+msgid "1 comment"
+msgstr "1 Kommentar"
+
+#: inc/template-tags.php:288
+#, php-format
+msgid "% comments"
+msgstr "% Kommentare"
+
+#: inc/template-tags.php:306
+msgid "Tags"
+msgstr "Schlagwörter"
+
+#: inc/template-tags.php:349
+msgctxt "post navigation"
+msgid "Previous Post"
+msgstr "Vorheriger Beitrag"
+
+#: inc/template-tags.php:350
+msgctxt "post navigation"
+msgid "Next Post"
+msgstr "Nächster Beitrag"
+
+#: inc/template-tags.php:369
+msgctxt "pagination"
+msgid "Previous Posts"
+msgstr "Vorherige Beiträge"
+
+#: inc/template-tags.php:370
+msgctxt "pagination"
+msgid "Next Posts"
+msgstr "Nächste Beiträge"
+
+#: inc/template-tags.php:414
+#, php-format
+msgid "WordPress Theme: %1$s by %2$s."
+msgstr "WordPress Theme: %1$s von %2$s."
+
+#: inc/template-tags.php:415
+msgid "Harrison"
+msgstr "Harrison"
+
+#: inc/theme-info.php:19 inc/theme-info.php:40
+#, php-format
+msgid "Welcome to %1$s %2$s"
+msgstr "Willkommen bei %1$s %2$s"
+
+#: inc/theme-info.php:50
+msgid ""
+"https://themezee.com/changelogs/?action=themezee-"
+"changelog&type=theme&slug=harrison"
+msgstr ""
+"https://themezee.com/changelogs/?action=themezee-"
+"changelog&type=theme&slug=harrison"
+
+#: inc/theme-info.php:58
+#, php-format
+msgid "Getting started with %s"
+msgstr "Erste Schritte mit %s"
+
+#: inc/theme-info.php:68
+msgid ""
+"Need help to set up and configure this theme? We got you covered! Check out "
+"the extensive theme documentation on our website."
+msgstr ""
+"Du brauchst Hilfe bei der Einrichtung und Konfiguration dieses Themes? Wir "
+"haben eine ausführliche Dokumentation auf unserer Website."
+
+#: inc/theme-info.php:72
+#, php-format
+msgid "View %s's documentation"
+msgstr "%s's Dokumentation ansehen"
+
+#: inc/theme-info.php:81
+#, php-format
+msgid ""
+"%s makes use of the Customizer for all theme settings. Click on \"Customize "
+"Theme\" to open the Customizer now."
+msgstr ""
+"%s verwendet den Customizer für alle Theme Einstellungen. Klicke auf \"Theme "
+"Customizer\", um den Customizer zu öffnen."
+
+#: inc/theme-info.php:84
+msgid "Customize Theme"
+msgstr "Theme Customizer"
+
+#: inc/theme-info.php:104
+msgid "Get more features"
+msgstr "Mehr Features"
+
+#: inc/theme-info.php:128
+msgid "Recommended Plugins"
+msgstr "Empfohlene Plugins"
+
+#: inc/theme-info.php:131
+msgid ""
+"Extend the functionality of your WordPress website with our free and easy to "
+"use plugins."
+msgstr ""
+"Erweitere die Funktionalität deiner WordPress Webseite mit unseren "
+"kostenlosen Plugins."
+
+#: inc/theme-info.php:135
+msgid "Install Plugins"
+msgstr "Plugins installieren"
+
+#: inc/theme-info.php:152
+#, php-format
+msgid "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+msgstr ""
+"%1$s wird stolz präsentiert von %2$s. Falls dir dieses Theme gefällt, %3$s :)"
+
+#: inc/theme-info.php:154
+msgid "https://themezee.com/"
+msgstr "https://themezee.com/de/"
+
+#: inc/theme-info.php:155
+msgctxt "If you like this theme, rate it"
+msgid "rate it"
+msgstr "bewerte es"
+
+#: searchform.php:13 searchform.php:17
+msgctxt "label"
+msgid "Search for:"
+msgstr "Suchen nach:"
+
+#: searchform.php:15
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Suchen &hellip;"
+
+#: searchform.php:21
+msgctxt "submit button"
+msgid "Search"
+msgstr "Suchen"
+
+#: template-parts/header/site-navigation.php:17
+msgid "Menu"
+msgstr "Menü"
+
+#: template-parts/header/site-navigation.php:22
+msgid "Primary Menu"
+msgstr "Hauptnavigation"
+
+#: template-parts/page/content-none.php:16
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: template-parts/page/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bereit den ersten Beitrag zu veröffentlichen? <a href=\"%1$s\">Starte hier</"
+"a>."
+
+#: template-parts/page/content-none.php:29
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Es tut uns leid, aber wir haben nichts gefunden. Bitte versuche es erneut "
+"mit einem anderen Suchwort."
+
+#: template-parts/page/content-none.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Es scheint wir können hier nichts finden. Vielleicht kann eine Suche helfen."

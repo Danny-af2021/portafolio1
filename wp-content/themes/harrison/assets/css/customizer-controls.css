@@ -1,0 +1,62 @@
+/*
+ * Customizer Controls CSS
+ *
+ * Adjusts styling for theme option controls in the Customizer
+ *
+ * @package Harrison
+ */
+
+/* Settings */
+#customize-control-harrison_theme_options-site_title {
+	margin-bottom: 6px;
+}
+
+#customize-control-harrison_theme_options-site_description,
+#customize-control-harrison_theme_options-blog_content {
+	margin-bottom: 16px;
+}
+
+#customize-control-harrison_theme_options-theme_layout,
+#customize-control-harrison_theme_options-header_layout,
+#customize-control-harrison_theme_options-blog_layout,
+#customize-control-harrison_theme_options-excerpt_length,
+#customize-control-harrison_theme_options-excerpt_more_text,
+#customize-control-harrison_theme_options-read_more_link,
+#customize-control-harrison_posts_per_page_setting,
+#customize-control-harrison_theme_options-theme_links,
+#customize-control-harrison_theme_options-pro_version,
+#customize-control-harrison_theme_options-magazine_blocks {
+	margin-bottom: 24px;
+}
+
+#customize-control-harrison_theme_options-blog_content {
+	padding: 0;
+}
+
+#customize-control-harrison_theme_options-retina_logo_title,
+#customize-control-harrison_theme_options-post_details,
+#customize-control-harrison_theme_options-single_post,
+#customize-control-harrison_theme_options-featured_images,
+#customize-control-harrison_theme_options-footer_text {
+	margin-bottom: 0;
+}
+
+#customize-control-harrison_theme_options-single_post,
+#customize-control-harrison_theme_options-featured_images,
+#customize-control-harrison_theme_options-post_image_single {
+	margin-top: 16px;
+}
+
+#customize-control-harrison_theme_options-meta_date,
+#customize-control-harrison_theme_options-meta_author,
+#customize-control-harrison_theme_options-meta_comments,
+#customize-control-harrison_theme_options-meta_categories,
+#customize-control-harrison_theme_options-meta_tags,
+#customize-control-harrison_theme_options-post_navigation,
+#customize-control-harrison_theme_options-post_image_archives {
+	margin-bottom: 4px;
+}
+
+#customize-control-harrison_theme_options-footer_text textarea {
+	height: 4em;
+}

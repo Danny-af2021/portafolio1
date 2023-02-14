@@ -1,0 +1,203 @@
+# Copyright (C) 2020 Brainstorm Force
+# This file is distributed under the same license as the Custom Adobe Fonts (Typekit) package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Adobe Fonts (Typekit) 1.0.18\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/custom-typekit-fonts\n"
+"POT-Creation-Date: 2020-08-18 09:25:20+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:216
+#. translators: %s product name
+msgid ""
+"Want to help make <strong>%1s</strong> even more awesome? Allow us to "
+"collect non-sensitive diagnostic data and usage information. "
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:219
+msgid "This will be applicable for all sites from the network."
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:243
+#. translators: %s usage doc link
+msgid " Know More."
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:251
+msgid "Yes! Allow it"
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:260
+msgid "No Thanks"
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:364
+msgid "Usage Tracking"
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:408
+#. translators: %s Product title
+msgid "Allow %s products to track non-sensitive usage tracking data."
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:411
+msgid " This will be applicable for all sites from the network."
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:416
+msgid "Learn More."
+msgstr ""
+
+#: classes/class-custom-typekit-fonts-admin.php:80
+msgid "Please enter the valid Project ID to get the kit details."
+msgstr ""
+
+#: classes/class-custom-typekit-fonts-admin.php:86
+msgid "This Kit is empty. Please add some fonts in it."
+msgstr ""
+
+#: classes/class-custom-typekit-fonts-admin.php:90
+msgid "Custom Typekit Fonts settings have been successfully saved."
+msgstr ""
+
+#: classes/class-custom-typekit-fonts-admin.php:106
+#: templates/custom-typekit-fonts-options.php:11
+msgid "Adobe Fonts"
+msgstr ""
+
+#: classes/class-custom-typekit-fonts-render.php:95
+msgid "Typekit Fonts"
+msgstr ""
+
+#: lib/notices/class-astra-notices.php:125
+msgid "WordPress Nonce not validated."
+msgstr ""
+
+#: templates/custom-typekit-fonts-options.php:17
+msgid "Settings"
+msgstr ""
+
+#: templates/custom-typekit-fonts-options.php:24
+msgid "Project ID:"
+msgstr ""
+
+#: templates/custom-typekit-fonts-options.php:27
+msgid "Please Enter the Valid Project ID to get the kit details."
+msgstr ""
+
+#: templates/custom-typekit-fonts-options.php:35
+msgid "Edit Project ID"
+msgstr ""
+
+#: templates/custom-typekit-fonts-options.php:39
+msgid "Refresh"
+msgstr ""
+
+#: templates/custom-typekit-fonts-options.php:41
+msgid "Save"
+msgstr ""
+
+#: templates/custom-typekit-fonts-options.php:53
+msgid "Kit Details:"
+msgstr ""
+
+#: templates/custom-typekit-fonts-options.php:55
+msgid ""
+"Make sure you have published the kit from Typekit. Only published "
+"information is displayed here."
+msgstr ""
+
+#: templates/custom-typekit-fonts-options.php:61
+msgid "Fonts"
+msgstr ""
+
+#: templates/custom-typekit-fonts-options.php:64
+msgid "Font Family"
+msgstr ""
+
+#: templates/custom-typekit-fonts-options.php:67
+msgid "Weights"
+msgstr ""
+
+#: templates/custom-typekit-fonts-options.php:106
+msgid "Help"
+msgstr ""
+
+#: templates/custom-typekit-fonts-options.php:112
+#. translators: %1$s: typekit site url.
+msgid ""
+"You can get the Project ID <a href=%1$s target=\"_blank\" >here</a> from "
+"your Typekit Account. <b>Project ID</b> can be found next to the kit names."
+msgstr ""
+
+#: templates/custom-typekit-fonts-options.php:123
+msgid "How it works?"
+msgstr ""
+
+#: templates/custom-typekit-fonts-options.php:130
+#. translators: %1$s: Astra Theme url.
+msgid ""
+"1) Once you get the Kit Details, all the fonts will be listed in the "
+"customizer under typography for only <a href=\"%1$s\" target=\"_blank\" "
+"rel=\"noopener\"> Astra </a> WordPress Theme users"
+msgstr ""
+
+#: templates/custom-typekit-fonts-options.php:134
+msgid "2) Select the Font Family and start using it into your custom CSS."
+msgstr ""
+
+#: templates/custom-typekit-fonts-options.php:137
+msgid "Go To Customizer"
+msgstr ""
+
+#: templates/white-label.php:18 templates/white-label.php:23
+msgid "Custom Typekit Fonts Branding"
+msgstr ""
+
+#: templates/white-label.php:29
+msgid "Plugin Name:"
+msgstr ""
+
+#: templates/white-label.php:34
+msgid "Plugin Description:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Custom Adobe Fonts (Typekit)"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.wpastra.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Custom Adobe Fonts allows you to extends the fonts supports from the "
+"Typekit."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Brainstorm Force"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.brainstormforce.com"
+msgstr ""

@@ -1,0 +1,178 @@
+# Translation of Plugins - Custom Adobe Fonts (Typekit) - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Custom Adobe Fonts (Typekit) - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-08-30 06:05:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Custom Adobe Fonts (Typekit) - Development (trunk)\n"
+
+#. translators: %s Product title
+#: admin/bsf-analytics/class-bsf-analytics.php:408
+msgid "Allow %s products to track non-sensitive usage tracking data."
+msgstr "Permite a los productos de %s hacer el seguimiento del rastreo de datos de uso no sensibles."
+
+#: lib/notices/class-astra-notices.php:125
+msgid "WordPress Nonce not validated."
+msgstr "Nonce de WordPress no validado."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:416
+msgid "Learn More."
+msgstr "Aprende más."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:411
+msgid " This will be applicable for all sites from the network."
+msgstr "Esto será aplicable a todos los sitios de la red."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:364
+msgid "Usage Tracking"
+msgstr "Seguimiento de uso"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:260
+msgid "No Thanks"
+msgstr "No, gracias"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:251
+msgid "Yes! Allow it"
+msgstr "¡Sí! Lo permito"
+
+#. translators: %s usage doc link
+#: admin/bsf-analytics/class-bsf-analytics.php:243
+msgid " Know More."
+msgstr "Saber más."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:219
+msgid "This will be applicable for all sites from the network."
+msgstr "Esto será aplicable a todos los sitios de la red."
+
+#. translators: %s product name
+#: admin/bsf-analytics/class-bsf-analytics.php:216
+msgid "Want to help make <strong>%1s</strong> even more awesome? Allow us to collect non-sensitive diagnostic data and usage information. "
+msgstr "¿Quieres ayudar a hacer que <strong>%1s</strong> sea aún más fantástico? Permítenos recopilar datos no sensibles de diagnóstico e información del uso. "
+
+#: templates/custom-typekit-fonts-options.php:35
+msgid "Edit Project ID"
+msgstr "Editar el ID del proyecto"
+
+#: templates/custom-typekit-fonts-options.php:27
+msgid "Please Enter the Valid Project ID to get the kit details."
+msgstr "Por favor, introduce el ID válido del proyecto para obtener los detalles del kit."
+
+#: templates/custom-typekit-fonts-options.php:24
+msgid "Project ID:"
+msgstr "ID del proyecto:"
+
+#: templates/custom-typekit-fonts-options.php:11
+#: classes/class-custom-typekit-fonts-admin.php:106
+msgid "Adobe Fonts"
+msgstr "Adobe Fonts"
+
+#. Plugin Name of the plugin
+msgid "Custom Adobe Fonts (Typekit)"
+msgstr "Custom Adobe Fonts (Typekit)"
+
+#: templates/white-label.php:34
+msgid "Plugin Description:"
+msgstr "Descripción del plugin:"
+
+#: templates/white-label.php:29
+msgid "Plugin Name:"
+msgstr "Nombre del plugin:"
+
+#: templates/white-label.php:18 templates/white-label.php:23
+msgid "Custom Typekit Fonts Branding"
+msgstr "Marca personalizada de las fuentes de Typekit"
+
+#: templates/custom-typekit-fonts-options.php:134
+msgid "2) Select the Font Family and start using it into your custom CSS."
+msgstr "2) Selecciona la familia de fuentes y empieza a usarla en tu CSS personalizado."
+
+#. translators: %1$s: Astra Theme url.
+#: templates/custom-typekit-fonts-options.php:130
+msgid "1) Once you get the Kit Details, all the fonts will be listed in the customizer under typography for only <a href=\"%1$s\" target=\"_blank\" rel=\"noopener\"> Astra </a> WordPress Theme users"
+msgstr "1) Una vez que obtengas los detalles del kit, todas las fuentes se listarán en el personalizador en «Tipografía» solo para los usuarios del tema <a href=\"%1$s\" target=\"_blank\" rel=\"noopener\">Astra</a> para WordPress"
+
+#: templates/custom-typekit-fonts-options.php:64
+msgid "Font Family"
+msgstr "Familia de fuentes"
+
+#: classes/class-custom-typekit-fonts-render.php:95
+msgid "Typekit Fonts"
+msgstr "Fuentes de Typekit"
+
+#: classes/class-custom-typekit-fonts-admin.php:86
+msgid "This Kit is empty. Please add some fonts in it."
+msgstr "Este kit está vacío. Por favor, añádele algunas fuentes."
+
+#. Author URI of the plugin
+msgid "http://www.brainstormforce.com"
+msgstr "https://www.brainstormforce.com"
+
+#. Author of the plugin
+msgid "Brainstorm Force"
+msgstr "Brainstorm Force"
+
+#. Description of the plugin
+msgid "Custom Adobe Fonts allows you to extends the fonts supports from the Typekit."
+msgstr "Custom Adobe Fonts te permite ampliar la compatibilidad con las fuentes de Typekit."
+
+#. Plugin URI of the plugin
+msgid "http://www.wpastra.com/"
+msgstr "https://www.wpastra.com/"
+
+#: templates/custom-typekit-fonts-options.php:137
+msgid "Go To Customizer"
+msgstr "Ir al personalizador"
+
+#: templates/custom-typekit-fonts-options.php:123
+msgid "How it works?"
+msgstr "¿Cómo funciona?"
+
+#. translators: %1$s: typekit site url.
+#: templates/custom-typekit-fonts-options.php:112
+msgid "You can get the Project ID <a href=%1$s target=\"_blank\" >here</a> from your Typekit Account. <b>Project ID</b> can be found next to the kit names."
+msgstr "Puedes obtener el ID del proyecto <a href=%1$s target=\"_blank\" >aquí</a> desde tu cuenta de Typekit. <b>El ID del proyecto</b> se puede encontrar junto a los nombres de los kits."
+
+#: templates/custom-typekit-fonts-options.php:106
+msgid "Help"
+msgstr "Ayuda"
+
+#: templates/custom-typekit-fonts-options.php:67
+msgid "Weights"
+msgstr "Grosores"
+
+#: templates/custom-typekit-fonts-options.php:61
+msgid "Fonts"
+msgstr "Fuentes"
+
+#: templates/custom-typekit-fonts-options.php:55
+msgid "Make sure you have published the kit from Typekit. Only published information is displayed here."
+msgstr "Asegúrate de que has publicado el kit desde Typekit. Aquí solo se muestra la información publicada."
+
+#: templates/custom-typekit-fonts-options.php:53
+msgid "Kit Details:"
+msgstr "Detalles del kit:"
+
+#: templates/custom-typekit-fonts-options.php:41
+msgid "Save"
+msgstr "Guardar"
+
+#: templates/custom-typekit-fonts-options.php:39
+msgid "Refresh"
+msgstr "Recargar"
+
+#: templates/custom-typekit-fonts-options.php:17
+msgid "Settings"
+msgstr "Ajustes"
+
+#: classes/class-custom-typekit-fonts-admin.php:90
+msgid "Custom Typekit Fonts settings have been successfully saved."
+msgstr "Los ajustes de las fuentes personalizadas de Typekit han sido guardados correctamente."
+
+#: classes/class-custom-typekit-fonts-admin.php:80
+msgid "Please enter the valid Project ID to get the kit details."
+msgstr "Por favor, introduce el ID válido del proyecto para obtener los detalles del kit."
